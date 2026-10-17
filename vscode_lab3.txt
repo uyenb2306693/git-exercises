@@ -1,0 +1,3 @@
+B2306693 - Hoang Vu Khanh Uyen
+Working with GitHub in VS Code in CT213H 
+This is my Lab 3 exercise
